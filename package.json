@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "images-to-pdf": "^1.0.3"
+  },
+  "devDependencies": {
+    "@types/node": "^15.6.1"
+  }
+}
